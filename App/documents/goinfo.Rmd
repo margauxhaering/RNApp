@@ -1,0 +1,58 @@
+---
+title: GO Enrichment informations
+author: Haering Margaux, 2020, IBDM
+framework: bootstrap
+mode: selfcontained
+widgets: "nyt_home"
+highlighter: prettify
+hitheme: twitter-bootstrap
+assets:
+  css:
+    - "http://fonts.googleapis.com/css?family=Raleway:300"
+    - "http://fonts.googleapis.com/css?family=Oxygen"
+---
+
+<style>
+body{
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+h1,h2,h3,h4 {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+h4 {
+  text-indent: 100px;
+}
+
+g-table-intro h4 {
+  text-indent: 0px;
+}
+</style>
+
+
+
+
+## GO Enrichment
+---
+R-EnrichTool is based on EnrichR. 
+
+To obtain your associated GO terms and description in a nice table and graph, just paste a Symbol list.
+
+
+
+-  <u> As input </u> </br>
+Paste a list of <b> Symbols</b> of interest 
+
+
+
+- <u> GO Terms </u> </br>
+Choose the GO enrichment you want and the number of results to show.
+(results are sorted from the most significant p-value to the least)
+
+
+<br/>
+<br/>
