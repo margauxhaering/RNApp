@@ -28,8 +28,8 @@ RNApp is an application to analyse aligned RNA-seq data.</br>
 <b>- Normalization</b> </br>
 
 The normalization is made by the TCC package.The package allows to compare tag count data with robust normalization strategies.</br>
-<i>https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-219<i></br> 
-Or by DESeq2 or by TMM, RLE, upperquartile (with a edgeR analysis) </br
+<i>https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-219</i></br> 
+Or by DESeq2 or by TMM, RLE, upperquartile (with a edgeR analysis) </br>
 </br>
 - Choose your method and parameters</br>
 - Visualize the results</br>
